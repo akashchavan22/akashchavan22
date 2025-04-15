@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Top Languages
 <p align="center">
   <!-- Top Languages with Animated Styling -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashchavan22&layout=compact&theme=tokyonight&hide_border=true" />
