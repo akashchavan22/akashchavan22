@@ -41,15 +41,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<!--   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akashchavan22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- Animated Greetings -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7E7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;I'm+Akash+Chavan;Java+Developer+%7C+Full-Stack+Developer;AWS+Certified+%7C+Cloud+Engineer;Passionate+about+Tech+%26+AI" />
   <br />
-  <!-- Streak Stats --
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashchavan22&theme=tokyonight&hide_border=true" />
-  <br /> -->
-  <!-- Top Languages -->
+  
+  <!-- GitHub Stats: Custom Badge -->
+  <img src="https://img.shields.io/badge/Total+Commits-550+-brightgreen?style=for-the-badge&logo=github" />
+  <br />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashchavan22&theme=tokyonight&hide_border=true" />
+  <br />
+  
+  <!-- Programming Language Usage -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashchavan22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
