@@ -9,8 +9,8 @@
 
 ### 🌟 About Me
 
-- 🧑‍💻 Java Developer with **2.3+ years** of hands-on experience in building backend systems  
-- 🔧 Tech Enthusiast skilled in **Java/J2EE, Spring Boot, Spring MVC, Microservices, Hibernate, MySQL, HTML/CSS, Git, Maven, CLI**
+- 🧑‍💻 Java Developer with **2.5+ years** of hands-on experience in building backend systems  
+- 🔧 Tech Enthusiast skilled in **Java/J2EE, Spring Boot, Spring MVC, Microservices, Hibernate, MySQL, HTML/CSS, Git, Maven, Bash**
 - 📖 Currently learning **JavaScript, jQuery, Java Streams, and System Design**
 - ☁️ Certified in **AWS Cloud Practitioner** & **GCP Associate Cloud Engineer**
 - 💡 Passionate about **Full-Stack Development, APIs, Cloud Technologies, and Generative AI**
